@@ -31,62 +31,48 @@ def add(sBuilding, eBuilding, mDistance):
 	house_list[e][s] = d
 	return
 
-
 def calculate(M, mCoffee, P, mBakery, R):
-	import heapq
-	from collections import defaultdict
+    import heapq
 
-	global house_list, ans_coffee_dict, ans_bakery_dict
+    global house_list
 
-	heap_list = {x: float('inf') for x in range(len(house_list))}
-	## 커피점
-	for idx in range(M):
-		min_heap = []
-		heapq.heappush(min_heap, [0, mCoffee[idx]])
-		heap_list[mCoffee[idx]] = 0
+    N = len(house_list)
+    INF = 10**18
 
-		while min_heap:
-			v, pos = heapq.heappop(min_heap)
+    def multisource_dijkstra(sources):
+        dist = [INF] * N
+        pq = []
 
-			if heap_list[pos] < v or heap_list[pos] > R:
-				continue
-			
-			if v != 0 :
-				ans_coffee_dict[pos] = min(v, ans_coffee_dict[pos])
+        # 여러 시작점 모두 0으로
+        for s in sources:
+            if dist[s] != 0:
+                dist[s] = 0
+                heapq.heappush(pq, (0, s))
 
-			for next_pos, weight in house_list[pos].items():
-				distance = weight + v
-				if distance < heap_list[next_pos]:
-					heap_list[next_pos] = distance
-					heapq.heappush(min_heap, [distance, next_pos])
+        while pq:
+            d, u = heapq.heappop(pq)
+            if d != dist[u]:
+                continue
+            if d > R:
+                continue  # R 넘으면 더 확장할 필요 없음(가중치 양수 가정)
 
+            for v, w in house_list[u].items():
+                nd = d + w
+                if nd <= R and nd < dist[v]:
+                    dist[v] = nd
+                    heapq.heappush(pq, (nd, v))
 
-	heap_list = {x: float('inf') for x in range(len(house_list))}
-	## 베이커리
-	for idx in range(P):	
-		min_heap = []
-		heapq.heappush(min_heap, [0, mBakery[idx]])
-		heap_list[mBakery[idx]] = 0
+        return dist
 
-		while min_heap:
-			v, pos = heapq.heappop(min_heap)
+    coffee_dist = multisource_dijkstra(mCoffee)
+    bakery_dist = multisource_dijkstra(mBakery)
 
-			if heap_list[pos] < v or heap_list[pos] > R:
-				continue
-			
-			if v != 0 :
-				ans_bakery_dict[pos] = min(v, ans_bakery_dict[pos])
+    ans = INF
+    for i in range(N):
+        # 기존 의도 유지: 가게 노드(거리 0)는 제외
+        if 0 < coffee_dist[i] < INF and 0 < bakery_dist[i] < INF:
+            s = coffee_dist[i] + bakery_dist[i]
+            if s < ans:
+                ans = s
 
-			for next_pos, weight in house_list[pos].items():
-				distance = weight + v
-				if distance < heap_list[next_pos]:
-					heap_list[next_pos] = distance
-					heapq.heappush(min_heap, [distance, next_pos])
-
-
-	print ("===============")
-	print (ans_coffee_dict)
-	print (ans_bakery_dict)
-	print ("===============")
-
-	return -1
+    return -1 if ans == INF else ans

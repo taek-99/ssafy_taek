@@ -14,7 +14,7 @@ def run():
 	eBuildingArr = []
 	mDistArr = []
 
-	for i in range(5):
+	for i in range(q):
 		cmd = int(sys.stdin.readline())
 
 		if cmd == CMD_INIT:
