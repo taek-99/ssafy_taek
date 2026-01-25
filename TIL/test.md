@@ -113,3 +113,20 @@
 - 정규성검정
 - 가설검정
 - 결과해석  
+
+
+testgg sdf ghsdfhsdfhsjhsd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
