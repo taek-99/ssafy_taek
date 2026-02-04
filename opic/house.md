@@ -1,45 +1,40 @@
 
 ### 1. I would like to know where you live. Can you describe your home to me? what does it look like? How many rooms does it have?
-나는 빌라에 여동생과 살고있습니다. 2개의 방과 하나의 화장실이 있습니다. 발코니가 없어서 거실에 빨래를 널어놓습니다. 큰방은 제가 사용하고, 작은방은 동생이 사용하고 있습니다. 창문이 크지 않아 환기가 잘 되지 않습니다. 벽지는 밝고 따듯한 색입니다. 집의 크기는 커서 만족스럽지만 엘레베이터가 없어서 힘든 점이 있습니다. 주변엔 상가가 많아 밤에는 다소 시끄럽습니다. 주변에 하천이 있어 러닝하기가 좋아서 춥지 않은 날엔 자주 러닝을 합니다. 
+나는 빌라에 혼자 살고있습니다. 2개의 방과 하나의 화장실이 있습니다. 발코니가 없어서 거실에 빨래를 널어놓습니다. 큰방에서 주로 자거나 공부를 하고, 작은방은 옷방으로 사용하고 있습니다. 창문이 크지 않아 환기가 잘 되지 않습니다. 벽지는 밝고 따듯한 색입니다. 집의 크기는 커서 만족스럽지만 엘레베이터가 없어서 힘든 점이 있습니다. 주변엔 상가가 많아 밤에는 다소 시끄럽습니다. 주변에 하천이 있어 러닝하기가 좋아서 춥지 않은 날엔 자주 러닝을 합니다. 
 
 ```  
-I live in a villa with my younger sister. Our place has two bedrooms and one bathroom.
+I live alone in a villa-style apartment.
+It has two rooms and one bathroom. But, there’s no balcony, so I usually dry my laundry in the living room.
 
-There is no balcony, so we usually dry our laundry in the living room.
-I use the larger bedroom, and my sister uses the smaller one.
+I mainly sleep and study in the larger room, and I use the smaller room as a walk-in closet. The windows aren’t very big, so ventilation isn’t great, but the wallpaper is bright and warm-colored, which makes the place feel cozy.
 
-The windows are not very big, so ventilation isn’t great.
-The wallpaper is bright and warm in color, which makes the house feel cozy.
+The size of the apartment is quite spacious, so I’m satisfied with that. However, there’s no elevator, so it can be tiring to go up and down the stairs. Also, there are many shops nearby, so it can get a bit noisy at night.
 
-I’m satisfied with the size of the house,
-but it can be inconvenient because there is no elevator.
+On the bright side, there’s a stream near my place, which is perfect for running. When the weather isn’t too cold, I often go jogging there.
 
-There are many shops around our building, so it can be a bit noisy at night.
-However, there is a river nearby, and it’s a great place to go running.
-On days when it’s not too cold, I go running there quite often.
 ```
+ventilation - 벤틸레이션 - 환기
+spacious - 스페이셔스 - 널찍한
+satisfied - 세터스파이드 - 만족한
 
 ### 2. Tell me about the house or apartment you lived in when you were a child. How was it different from the one you live in now? What are yhe similarities and differences?
-어릴땐 가족들과 함께 아파트에 살았습니다. 지금은 빌라에 여동생과 살고 있습니다. 예전 집엔 발코니도 있고 신형이라 좋았습니다. 지금 집은 구형에 발코니가 없어서 불편한 점이 있습니다. 예전엔 가족이 다함께 살아서 좋았습니다. 지금 집은 여동생과 같이 살고 있긴 하지만 만날 시간이 없어서 때때로 외롭습니다. 두 집 모두 벽지가 밝고 따뜻한 느낌이 듭니다. 어릴적 가족들과 다같이 즐거운 시간을 보냈던 기억이 좋아서, 요즘은 가끔 어릴때가 그립습니다.
+어릴땐 가족들과 함께 아파트에 살았습니다. 지금은 빌라에 혼자 살고 있습니다. 예전 집엔 발코니도 있고 신형이라 좋았습니다. 지금 집은 구형에 발코니가 없어서 빨래를 거실에 널어야 하는 불편한 점이 있습니다. 예전엔 가족이 다함께 살아서 좋았습니다. 지금은 혼자 지내고 있어서 때때로 외롭다는 느낌이 듭니다. 두 집 모두 벽지가 밝고 따뜻한 느낌이 듭니다. 어릴적 가족들과 다같이 즐거운 시간을 보냈던 기억이 좋아서, 요즘은 가끔 어릴때가 그립습니다.
   
 
 ```
 When I was a child, I lived in an apartment with my family.
-Now, I live in a villa with my younger sister.
+Now, I live alone in a villa-style apartment, so my living situation is quite different.
 
-My old apartment was newer and had a balcony, so it was more convenient.
-In contrast, my current place is older and doesn’t have a balcony, which can be inconvenient.
+My old apartment was newer and had a balcony, which was very convenient. In contrast, my current place is older and doesn’t have a balcony, so I have to dry my laundry in the living room, which can be a bit inconvenient.
 
-One big difference is who I live with.
-Back then, I lived with my whole family, and I really enjoyed spending time together.
-Now, even though I live with my sister, we don’t get to see each other very often,
-so I sometimes feel a bit lonely.
+Another big difference is the atmosphere. In the past, I lived with my whole family, so the house always felt lively and warm. These days, I live by myself, and I sometimes feel a little lonely.
 
-A similarity between the two places is that both have bright and warm-colored wallpaper, which gives a comfortable feeling.
-
-Because I have many happy memories with my family from my childhood home,
-I sometimes miss those days.
+However, there are also some similarities. Both places have bright, warm-colored wallpaper, which gives a cozy feeling. I still remember spending happy times with my family in my childhood home, and because of those memories, I sometimes miss those days..
 ```
+In contrast - 인 칸트레스트 - 그와 반대로
+atmosphere - 엣머스피어 - 분위기
+similarities - 시멀레러티즈 - 공통점
+
 
 ### 3. Think back to the day when you moved into the place you live in. When did you move? Did you have anybody who helped you? Tell me everything that happened on that moving day
 
