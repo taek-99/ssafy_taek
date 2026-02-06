@@ -16,7 +16,7 @@ Recently, / I bought a speaker, / so now I often listen to music at home as well
 
 Thanks to the better sound quality, / I can enjoy my favorite songs even more, / and it helps me relax / after a long day.
 
-```
+```  
 
 
 ### 2. Can you tell me about a memorable live music experience you had? When and where was it? Who were you with? Why was it memorable?
