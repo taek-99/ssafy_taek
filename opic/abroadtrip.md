@@ -11,7 +11,7 @@ After that, / I reserve my accommodation / near the city center / for convenienc
 
 I often choose Japan/ because it is close to Korea/ and easy to travel around. //
 
-This year,/ I’m planning a trip to Japan/ for my mother’s birthday,/ so I’m being more careful/ with the schedule. //
+This year,/ I’m planning a trip to Japan/ for my mother’s birthday//
 
 Planning early/ helps me feel relaxed/ and enjoy the trip more. //
 
